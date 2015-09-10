@@ -13,4 +13,12 @@ public class Circle extends Shape {
     public double getSquare() {
         return Math.PI * ray * ray;
     }
+
+    public double getRay() {
+        return ray;
+    }
+
+    public void setRay(double ray) {
+        this.ray = ray;
+    }
 }

@@ -14,4 +14,23 @@ public class Human {
         this.status = status;
     }
 
+    public String getName() {
+        return name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public Status getStatus() {
+        return status;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public void setStatus(Status status) {
+        this.status = status;
+    }
 }

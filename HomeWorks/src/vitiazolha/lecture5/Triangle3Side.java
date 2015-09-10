@@ -16,4 +16,28 @@ public class Triangle3Side extends Triangle {
         double halfPer = (sideA + sideB + sideC) / 2;
         return Math.sqrt(halfPer * (halfPer - sideA) * (halfPer - sideB) * (halfPer - sideB));
     }
+
+    public double getSideA() {
+        return sideA;
+    }
+
+    public double getSideB() {
+        return sideB;
+    }
+
+    public double getSideC() {
+        return sideC;
+    }
+
+    public void setSideA(double sideA) {
+        this.sideA = sideA;
+    }
+
+    public void setSideB(double sideB) {
+        this.sideB = sideB;
+    }
+
+    public void setSideC(double sideC) {
+        this.sideC = sideC;
+    }
 }
