@@ -22,8 +22,7 @@ public class Rectangle extends Shape {
 
     @Override
     public String toString() {
-        System.out.format("|   Rectangle [a,b]  | %20.2f ; %10.2f | %10.2f |%n", this.sideA, this.sideB, this.getSquare());
-        return "|  Rectangle |\t\t" + this.sideA + " |\t " + this.sideB + " |\t" + this.getSquare() + "|" ;
+        return String.format("|   Rectangle [a,b]  | %20.2f ; %10.2f | %10.2f |%n", this.sideA, this.sideB, this.getSquare());
     }
 
     public double getSideA() {

@@ -49,7 +49,6 @@ public class Triangle3Side extends Triangle {
 
     @Override
     public String toString() {
-        System.out.format("|  Triangle [a,b,c]  | %9.2f ; %8.2f ; %10.2f | %10.2f |%n", this.sideA, this.sideB, this.sideC, this.getSquare());
-        return "|  Triangle  |\t" + this.sideA + " |\t" + this.sideB + " |\t" + this.sideC + " |\t" + this.getSquare() + "|" ;
+        return String.format("|  Triangle [a,b,c]  | %9.2f ; %8.2f ; %10.2f | %10.2f |%n", this.sideA, this.sideB, this.sideC, this.getSquare());
     }
 }

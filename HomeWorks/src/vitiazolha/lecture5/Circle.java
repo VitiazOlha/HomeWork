@@ -18,8 +18,7 @@ public class Circle extends Shape {
 
     @Override
     public String toString() {
-        System.out.format("|     Circle [R]     | %33.2f | %10.2f |%n", this.ray, this.getSquare());
-        return "|   Circle   |\t\t\t" + this.ray + " |\t" + this.getSquare() + "|" ;
+        return String.format("|     Circle [R]     | %33.2f | %10.2f |%n", this.ray, this.getSquare());
     }
 
     public double getRay() {

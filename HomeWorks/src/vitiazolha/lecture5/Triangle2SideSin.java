@@ -47,7 +47,6 @@ public class Triangle2SideSin extends Triangle {
 
     @Override
     public String toString() {
-        System.out.format("| Triangle [a,b,sin] | %9.2f ; %8.2f ; %9.1f° | %10.2f |%n", this.sideA, this.sideB, this.degrees, this.getSquare());
-        return "|  Triangle  |\t" + this.sideA + " |\t" + this.sideB + " |\t" + this.degrees + " |\t" + this.getSquare() + "|" ;
+        return String.format("| Triangle [a,b,sin] | %9.2f ; %8.2f ; %9.1f° | %10.2f |%n", this.sideA, this.sideB, this.degrees, this.getSquare());
     }
 }

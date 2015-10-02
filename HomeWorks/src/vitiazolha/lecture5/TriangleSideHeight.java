@@ -38,7 +38,6 @@ public class TriangleSideHeight extends Triangle {
 
     @Override
     public String toString() {
-        System.out.format("|   Triangle [a,h]   | %20.2f ; %10.2f | %10.2f |%n", this.sideA, this.height, this.getSquare());
-        return "|  Triangle  |\t\t" + this.sideA +  " |\t" + this.height + " |\t" + this.getSquare() + "|" ;
+        return String.format("|   Triangle [a,h]   | %20.2f ; %10.2f | %10.2f |%n", this.sideA, this.height, this.getSquare());
     }
 }

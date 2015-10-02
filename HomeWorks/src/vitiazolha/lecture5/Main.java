@@ -8,6 +8,7 @@ import java.util.ArrayList;
 public class Main {
     public static void main(String[] args)  {
         createList();
+
     }
 //обработка здесь
     public static void createList() {//ToAsk
@@ -27,6 +28,7 @@ public class Main {
         }
         finally {
             imageTable(figures);
+            setTableInString(figures);
         }
     }
 
@@ -35,8 +37,19 @@ public class Main {
         System.out.print("| Name of the figure |             Arguments             |   Square   |\n");
         System.out.print("|--------------------|-----------------------------------|------------|\n");
         for (Shape e1 : figures)
-            /*System.out.println(*/e1.toString();//);
+            System.out.print(e1.toString());
         System.out.print("|_____________________________________________________________________|\n");
+    }
+
+    public static void setTableInString(ArrayList<Shape> figures) {
+        StringBuilder builder = new StringBuilder();
+        builder.append("_______________________________________________________________________\n");
+        builder.append("| Name of the figure |             Arguments             |   Square   |\n");
+        builder.append("|--------------------|-----------------------------------|------------|\n");
+        for (Shape e1 : figures)
+            builder.append(e1.toString());
+        builder.append("|_____________________________________________________________________|\n\n");
+        System.out.print(builder.toString());
     }
 
 }

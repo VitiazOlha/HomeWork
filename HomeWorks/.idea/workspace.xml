@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d428720-11d4-4d24-b234-0787e5ee6534" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HomeWorks.iml" afterPath="$PROJECT_DIR$/HomeWorks.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vitiazolha/lecture4/Professor.java" afterPath="$PROJECT_DIR$/src/vitiazolha/lecture4/Professor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vitiazolha/lecture4/Soldier.java" afterPath="$PROJECT_DIR$/src/vitiazolha/lecture4/Soldier.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vitiazolha/lecture4/Student.java" afterPath="$PROJECT_DIR$/src/vitiazolha/lecture4/Student.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vitiazolha/lecture5/Circle.java" afterPath="$PROJECT_DIR$/src/vitiazolha/lecture5/Circle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vitiazolha/lecture5/Main.java" afterPath="$PROJECT_DIR$/src/vitiazolha/lecture5/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vitiazolha/lecture5/Rectangle.java" afterPath="$PROJECT_DIR$/src/vitiazolha/lecture5/Rectangle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle2SideSin.java" afterPath="$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle2SideSin.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle3Side.java" afterPath="$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle3Side.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vitiazolha/lecture5/TriangleSideHeight.java" afterPath="$PROJECT_DIR$/src/vitiazolha/lecture5/TriangleSideHeight.java" />
     </list>
     <ignored path="HomeWorks.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+              <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -44,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Rectangle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="23" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="25" />
+              <caret line="24" column="126" selection-start-line="24" selection-start-column="126" selection-end-line="24" selection-end-column="126" />
               <folding />
             </state>
           </provider>
@@ -64,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle2SideSin.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+              <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -74,7 +74,7 @@
         <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle3Side.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+              <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -94,7 +94,17 @@
         <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/TriangleSideHeight.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="82" selection-start-line="8" selection-start-column="82" selection-end-line="8" selection-end-column="82" />
+              <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Circle.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Circle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.44418052">
+              <caret line="20" column="24" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -113,21 +123,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WorkWithArray.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture6/WorkWithArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.391924">
-              <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Circle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Circle.java">
+      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Programs/jdk1.8.0_60/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+              <caret line="2938" column="25" selection-start-line="2938" selection-start-column="25" selection-end-line="2938" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -164,16 +164,16 @@
         <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/SquareException.java" />
         <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle.java" />
         <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/Shape.java" />
-        <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/Circle.java" />
-        <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle2SideSin.java" />
-        <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle3Side.java" />
-        <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/TriangleSideHeight.java" />
-        <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/FirstHomeWork.java" />
-        <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/Main.java" />
         <option value="$PROJECT_DIR$/src/vitiazolha/lecture4/Professor.java" />
         <option value="$PROJECT_DIR$/src/vitiazolha/lecture4/Student.java" />
         <option value="$PROJECT_DIR$/src/vitiazolha/lecture4/Soldier.java" />
+        <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/Circle.java" />
+        <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle2SideSin.java" />
+        <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle3Side.java" />
+        <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/TriangleSideHeight.java" />
+        <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/Main.java" />
       </list>
     </option>
   </component>
@@ -318,7 +318,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Application.FirstHomeWork">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration default="false" name="FirstHomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="FirstHomeWork" />
@@ -645,8 +645,8 @@
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.FirstHomeWork" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.FirstHomeWork" />
         <item index="2" class="java.lang.String" itemvalue="Application.Main" />
         <item index="3" class="java.lang.String" itemvalue="Application.WorkWithArray" />
       </list>
@@ -662,12 +662,12 @@
       <created>1441553009806</created>
       <option name="number" value="Default" />
       <updated>1441553009806</updated>
-      <workItem from="1443777561875" duration="495000" />
+      <workItem from="1443777561875" duration="3015000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="495000" />
+    <option name="totallyTimeSpent" value="3015000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -684,7 +684,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.49406177" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.4307205" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32786885" sideWeight="0.4307205" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.18052256" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -753,14 +753,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture7/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1131,66 +1123,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Circle.java">
+    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture6/WorkWithArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Main.java">
+    <entry file="jar://$USER_HOME$/Programs/jdk1.8.0_60/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="23" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle2SideSin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle3Side.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/TriangleSideHeight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="82" selection-start-line="8" selection-start-column="82" selection-end-line="8" selection-end-column="82" />
+          <caret line="2938" column="25" selection-start-line="2938" selection-start-column="25" selection-end-line="2938" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -1206,10 +1150,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture6/WorkWithArray.java">
+    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/TriangleSideHeight.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.391924">
-          <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle3Side.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle2SideSin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="126" selection-start-line="24" selection-start-column="126" selection-end-line="24" selection-end-column="126" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44418052">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="28" />
           <folding />
         </state>
       </provider>
