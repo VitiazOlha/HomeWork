@@ -14,6 +14,7 @@ public class Student extends Status {
         this.course = course;
     }
 
+    @Override
     public void getStatus()
     {
         System.out.println("I'm student");

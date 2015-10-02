@@ -10,6 +10,7 @@ public class Professor extends Status {
         this.post = post;
     }
 
+    @Override
     public void getStatus()
     {
         System.out.println("I'm professor");

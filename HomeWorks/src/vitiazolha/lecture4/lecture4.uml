@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>vitiazolha.lecture4</OriginalElement>
+  <nodes>
+    <node x="230.0" y="0.0">vitiazolha.lecture4.Status</node>
+    <node x="148.0" y="81.0">vitiazolha.lecture4.Student</node>
+    <node x="408.0" y="93.0">vitiazolha.lecture4.Soldier</node>
+    <node x="180.0" y="-170.0">vitiazolha.lecture4.Human</node>
+    <node x="0.0" y="105.0">vitiazolha.lecture4.Professor</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="vitiazolha.lecture4.Human" target="vitiazolha.lecture4.Status">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="vitiazolha.lecture4.Student" target="vitiazolha.lecture4.Status">
+      <point x="0.0" y="-51.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="vitiazolha.lecture4.Soldier" target="vitiazolha.lecture4.Status">
+      <point x="0.0" y="-39.5" />
+      <point x="486.0" y="56.0" />
+      <point x="293.3333333333333" y="56.0" />
+      <point x="25.333333333333314" y="15.5" />
+    </edge>
+    <edge source="vitiazolha.lecture4.Professor" target="vitiazolha.lecture4.Status">
+      <point x="0.0" y="-27.5" />
+      <point x="64.0" y="56.0" />
+      <point x="242.66666666666666" y="56.0" />
+      <point x="-25.333333333333343" y="15.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="154.0" y="94.0" />
+  <SelectedNodes>
+    <node>vitiazolha.lecture4.Human</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

@@ -12,6 +12,7 @@ public class Soldier extends Status {
         this.platoon = platoon;
     }
 
+    @Override
     public void getStatus()
     {
         System.out.println("I'm soldier");
