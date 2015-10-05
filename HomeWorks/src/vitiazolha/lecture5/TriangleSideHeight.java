@@ -1,18 +1,29 @@
 package vitiazolha.lecture5;
 
+import java.util.Scanner;
+
 /**
  * Created by vitiazolha on 10.09.15.
  */
 public class TriangleSideHeight extends Triangle {
     private double sideA, height;
 
-    public TriangleSideHeight(double sideA, double height) throws ValueException {
-            if ( sideA > 0 && height > 0 )
-            {
-                this.sideA = sideA;
-                this.height = height;
-            }
+    @Override
+    public void setInfo() throws ValueException {
+        Scanner scanner = new Scanner(System.in);
+        try {
+            System.out.print("Enter the side of triangle: ");
+            double sideA = Double.parseDouble(scanner.nextLine());
+            if (sideA > 0) setSideA(sideA);
             else throw new ValueException();
+            System.out.print("Enter the height of triangle: ");
+            double height = Double.parseDouble(scanner.nextLine());
+            if (height > 0) setHeight(height);
+            else throw new ValueException();
+        }
+        catch (NumberFormatException e) {
+            throw new ValueException();
+        }
     }
 
     @Override

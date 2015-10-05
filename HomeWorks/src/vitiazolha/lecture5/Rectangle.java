@@ -1,18 +1,29 @@
 package vitiazolha.lecture5;
 
+import java.util.Scanner;
+
 /**
  * Created by vitiazolha on 09.09.15.
  */
 public class Rectangle extends Shape {
     private double sideA, sideB;
 
-    public Rectangle(double sideA, double sideB) throws ValueException {
-            if ( sideA > 0 && sideB > 0)
-            {
-                this.sideA = sideA;
-                this.sideB = sideB;
-            }
+    @Override
+    public void setInfo() throws ValueException {
+        Scanner scanner = new Scanner(System.in);
+        try {
+            System.out.print("Enter the side A of rectangle: ");
+            double sideA = Double.parseDouble(scanner.nextLine());
+            if (sideA > 0) setSideA(sideA);
             else throw new ValueException();
+            System.out.print("Enter the side B of rectangle: ");
+            double sideB = Double.parseDouble(scanner.nextLine());
+            if (sideB > 0) setSideB(sideB);
+            else throw new ValueException();
+        }
+        catch (NumberFormatException e) {
+            throw new ValueException();
+        }
     }
 
     @Override

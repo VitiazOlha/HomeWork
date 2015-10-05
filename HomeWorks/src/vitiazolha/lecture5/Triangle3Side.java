@@ -1,25 +1,39 @@
 package vitiazolha.lecture5;
 
+import java.util.Scanner;
+
 /**
  * Created by vitiazolha on 10.09.15.
  */
 public class Triangle3Side extends Triangle {
     private double sideA, sideB, sideC;
 
-    public Triangle3Side(double sideA, double sideB, double sideC) throws ValueException {
-            if ( sideA > 0 && sideB > 0 && sideC > 0)
-            {
-                this.sideA = sideA;
-                this.sideB = sideB;
-                this.sideC = sideC;
-            }
-            else throw new ValueException();
-    }
-
     @Override
     public double getSquare()  {
         double halfPer = (sideA + sideB + sideC) / 2;
         return Math.sqrt(halfPer * (halfPer - sideA) * (halfPer - sideB) * (halfPer - sideC));
+    }
+
+    @Override
+    public void setInfo() throws ValueException {
+        Scanner scanner = new Scanner(System.in);
+        try {
+            System.out.print("Enter the side A of triangle: ");
+            double sideA = Double.parseDouble(scanner.nextLine());
+            if (sideA > 0) setSideA(sideA);
+            else throw new ValueException();
+            System.out.print("Enter the side B of triangle: ");
+            double sideB = Double.parseDouble(scanner.nextLine());
+            if (sideB > 0) setSideB(sideB);
+            else throw new ValueException();
+            System.out.print("Enter the side C of triangle:");
+            double sideC = Double.parseDouble(scanner.nextLine());
+            if (sideC > 0) setSideC(sideC);
+            else throw new ValueException();
+        }
+        catch (NumberFormatException e) {
+            throw new ValueException();
+        }
     }
 
 

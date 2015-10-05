@@ -1,19 +1,33 @@
 package vitiazolha.lecture5;
 
+import java.util.Scanner;
+
 /**
  * Created by vitiazolha on 10.09.15.
  */
 public class Triangle2SideSin extends Triangle {
     private double sideA, sideB, degrees;
 
-    public Triangle2SideSin(double sideA, double sideB, double degrees) throws ValueException {
-            if ( sideA > 0 && sideB > 0 && (degrees > 0 && degrees < 180))
-            {
-                this.sideA = sideA;
-                this.sideB = sideB;
-                this.degrees = degrees;
-            }
+    @Override
+    public void setInfo() throws ValueException {
+        Scanner scanner = new Scanner(System.in);
+        try {
+            System.out.print("Enter the side A of triangle: ");
+            double sideA = Double.parseDouble(scanner.nextLine());
+            if (sideA > 0) setSideA(sideA);
             else throw new ValueException();
+            System.out.print("Enter the side B of triangle: ");
+            double sideB = Double.parseDouble(scanner.nextLine());
+            if (sideB > 0) setSideB(sideB);
+            else throw new ValueException();
+            System.out.print("Enter the degrees between that sides: ");
+            double degrees = Double.parseDouble(scanner.nextLine());
+            if (degrees > 0 && degrees < 180) setDegrees(degrees);
+            else throw new ValueException();
+        }
+        catch (NumberFormatException e) {
+            throw new ValueException();
+        }
     }
 
     @Override

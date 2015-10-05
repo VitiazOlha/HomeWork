@@ -5,4 +5,5 @@ package vitiazolha.lecture5;
  */
 public abstract class Shape {
     public abstract double getSquare() ;
+    public abstract void setInfo() throws ValueException ;
 }

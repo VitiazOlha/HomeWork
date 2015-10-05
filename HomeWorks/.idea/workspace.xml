@@ -2,12 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d428720-11d4-4d24-b234-0787e5ee6534" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HomeWorks/vitiazolha/lecture5/Circle.class" afterPath="$PROJECT_DIR$/out/production/HomeWorks/vitiazolha/lecture5/Circle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HomeWorks/vitiazolha/lecture5/Main.class" afterPath="$PROJECT_DIR$/out/production/HomeWorks/vitiazolha/lecture5/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HomeWorks/vitiazolha/lecture7/Main.class" afterPath="$PROJECT_DIR$/out/production/HomeWorks/vitiazolha/lecture7/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HomeWorks/vitiazolha/lecture5/Rectangle.class" afterPath="$PROJECT_DIR$/out/production/HomeWorks/vitiazolha/lecture5/Rectangle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HomeWorks/vitiazolha/lecture5/Triangle2SideSin.class" afterPath="$PROJECT_DIR$/out/production/HomeWorks/vitiazolha/lecture5/Triangle2SideSin.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HomeWorks/vitiazolha/lecture5/Triangle3Side.class" afterPath="$PROJECT_DIR$/out/production/HomeWorks/vitiazolha/lecture5/Triangle3Side.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HomeWorks/vitiazolha/lecture5/TriangleSideHeight.class" afterPath="$PROJECT_DIR$/out/production/HomeWorks/vitiazolha/lecture5/TriangleSideHeight.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vitiazolha/lecture5/Circle.java" afterPath="$PROJECT_DIR$/src/vitiazolha/lecture5/Circle.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vitiazolha/lecture5/Main.java" afterPath="$PROJECT_DIR$/src/vitiazolha/lecture5/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vitiazolha/lecture7/Main.java" afterPath="$PROJECT_DIR$/src/vitiazolha/lecture7/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vitiazolha/lecture5/Rectangle.java" afterPath="$PROJECT_DIR$/src/vitiazolha/lecture5/Rectangle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vitiazolha/lecture5/Shape.java" afterPath="$PROJECT_DIR$/src/vitiazolha/lecture5/Shape.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle.java" afterPath="$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle2SideSin.java" afterPath="$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle2SideSin.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle3Side.java" afterPath="$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle3Side.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vitiazolha/lecture5/TriangleSideHeight.java" afterPath="$PROJECT_DIR$/src/vitiazolha/lecture5/TriangleSideHeight.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vitiazolha/lecture5/ValueException.java" afterPath="$PROJECT_DIR$/src/vitiazolha/lecture5/ValueException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HomeWorks.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,22 +42,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Rectangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="126" selection-start-line="24" selection-start-column="126" selection-end-line="24" selection-end-column="126" />
-              <folding />
+            <state vertical-scroll-proportion="0.19656786">
+              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+              <folding>
+                <element signature="e#339#346#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -64,27 +68,7 @@
         <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle2SideSin.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Triangle3Side.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle3Side.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Shape.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Shape.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -94,17 +78,17 @@
         <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/TriangleSideHeight.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Circle.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Circle.java">
+      <file leaf-file-name="Triangle3Side.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle3Side.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44418052">
-              <caret line="20" column="24" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -114,20 +98,141 @@
         <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/ValueException.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
               <folding>
                 <element signature="e#169#170#0" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/Programs/jdk1.8.0_60/src.zip!/java/lang/String.java">
+      <file leaf-file-name="WorkWithList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/WorkWithList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="2938" column="25" selection-start-line="2938" selection-start-column="25" selection-end-line="2938" selection-end-column="25" />
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lecture4.uml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture4/lecture4.uml">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>vitiazolha.lecture4</OriginalElement>
+              <nodes>
+                <node x="230.0" y="0.0">vitiazolha.lecture4.Status</node>
+                <node x="148.0" y="81.0">vitiazolha.lecture4.Student</node>
+                <node x="408.0" y="93.0">vitiazolha.lecture4.Soldier</node>
+                <node x="179.0" y="-158.0">vitiazolha.lecture4.Human</node>
+                <node x="0.0" y="105.0">vitiazolha.lecture4.Professor</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="vitiazolha.lecture4.Student" target="vitiazolha.lecture4.Status">
+                  <point x="0.0" y="-51.5" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="vitiazolha.lecture4.Soldier" target="vitiazolha.lecture4.Status">
+                  <point x="0.0" y="-39.5" />
+                  <point x="486.0" y="56.0" />
+                  <point x="293.3333333333333" y="56.0" />
+                  <point x="25.333333333333314" y="15.5" />
+                </edge>
+                <edge source="vitiazolha.lecture4.Professor" target="vitiazolha.lecture4.Status">
+                  <point x="0.0" y="-27.5" />
+                  <point x="64.0" y="56.0" />
+                  <point x="242.66666666666666" y="56.0" />
+                  <point x="-25.333333333333343" y="15.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="-100.5" y="90.0" />
+              <SelectedNodes>
+                <node>vitiazolha.lecture4.Human</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Fields</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JAVA/vitiazolha.lecture5" pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/vitiazolha.lecture5">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>vitiazolha.lecture5</OriginalElement>
+              <nodes>
+                <node x="0.0" y="314.0">vitiazolha.lecture5.Main</node>
+                <node x="145.99999999999997" y="162.0">vitiazolha.lecture5.Triangle2SideSin</node>
+                <node x="405.5" y="81.0">vitiazolha.lecture5.Circle</node>
+                <node x="283.5" y="81.0">vitiazolha.lecture5.Rectangle</node>
+                <node x="297.0" y="0.0">vitiazolha.lecture5.Shape</node>
+                <node x="0.0" y="238.0">vitiazolha.lecture5.ValueException</node>
+                <node x="174.49999999999997" y="81.0">vitiazolha.lecture5.Triangle</node>
+                <node x="312.0" y="162.0">vitiazolha.lecture5.TriangleSideHeight</node>
+                <node x="186.0" y="238.0">vitiazolha.lecture5.WorkWithList</node>
+                <node x="0.0" y="162.0">vitiazolha.lecture5.Triangle3Side</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="vitiazolha.lecture5.TriangleSideHeight" target="vitiazolha.lecture5.Triangle">
+                  <point x="0.0" y="-15.5" />
+                  <point x="394.5" y="137.0" />
+                  <point x="248.6666666666666" y="137.0" />
+                  <point x="29.66666666666663" y="15.5" />
+                </edge>
+                <edge source="vitiazolha.lecture5.Triangle2SideSin" target="vitiazolha.lecture5.Triangle">
+                  <point x="0.0" y="-15.5" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="vitiazolha.lecture5.Triangle" target="vitiazolha.lecture5.Shape">
+                  <point x="0.0" y="-15.5" />
+                  <point x="218.99999999999997" y="56.0" />
+                  <point x="309.5" y="56.0" />
+                  <point x="-25.0" y="15.5" />
+                </edge>
+                <edge source="vitiazolha.lecture5.Circle" target="vitiazolha.lecture5.Shape">
+                  <point x="0.0" y="-15.5" />
+                  <point x="441.5" y="56.0" />
+                  <point x="359.5" y="56.0" />
+                  <point x="25.0" y="15.5" />
+                </edge>
+                <edge source="vitiazolha.lecture5.Triangle3Side" target="vitiazolha.lecture5.Triangle">
+                  <point x="0.0" y="-15.5" />
+                  <point x="63.0" y="137.0" />
+                  <point x="189.3333333333333" y="137.0" />
+                  <point x="-29.666666666666686" y="15.5" />
+                </edge>
+                <edge source="vitiazolha.lecture5.Rectangle" target="vitiazolha.lecture5.Shape">
+                  <point x="0.0" y="-15.5" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.5000000000000001" x="319.0000000000001" y="296.5" />
+              <SelectedNodes>
+                <node>vitiazolha.lecture5.WorkWithList</node>
+              </SelectedNodes>
+              <Categories />
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Shape.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Shape.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -160,19 +265,22 @@
         <option value="$PROJECT_DIR$/src/vitiazolha/lecture6/WorkWithArray.java" />
         <option value="$PROJECT_DIR$/src/vitiazolha/lecture7/Exception1.java" />
         <option value="$PROJECT_DIR$/src/vitiazolha/lecture7/DigitInStringException.java" />
-        <option value="$PROJECT_DIR$/src/vitiazolha/lecture7/Main.java" />
         <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/SquareException.java" />
-        <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle.java" />
-        <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/Shape.java" />
         <option value="$PROJECT_DIR$/src/FirstHomeWork.java" />
         <option value="$PROJECT_DIR$/src/vitiazolha/lecture4/Professor.java" />
         <option value="$PROJECT_DIR$/src/vitiazolha/lecture4/Student.java" />
         <option value="$PROJECT_DIR$/src/vitiazolha/lecture4/Soldier.java" />
-        <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/Circle.java" />
+        <option value="$PROJECT_DIR$/src/vitiazolha/lecture7/Main.java" />
+        <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/ShapeList.java" />
+        <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/Shape.java" />
+        <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle.java" />
         <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/Circle.java" />
         <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle2SideSin.java" />
         <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle3Side.java" />
         <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/TriangleSideHeight.java" />
+        <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/ValueException.java" />
+        <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/WorkWithList.java" />
         <option value="$PROJECT_DIR$/src/vitiazolha/lecture5/Main.java" />
       </list>
     </option>
@@ -223,6 +331,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -300,7 +409,6 @@
       </pane>
       <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -629,6 +737,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
@@ -662,12 +776,13 @@
       <created>1441553009806</created>
       <option name="number" value="Default" />
       <updated>1441553009806</updated>
-      <workItem from="1443777561875" duration="3015000" />
+      <workItem from="1443777561875" duration="14437000" />
+      <workItem from="1443950878772" duration="8459000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3015000" />
+    <option name="totallyTimeSpent" value="22896000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -682,56 +797,31 @@
     <frame x="57" y="24" width="1309" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.49406177" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32786885" sideWeight="0.49406177" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32786885" sideWeight="0.4307205" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.18052256" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32786885" sideWeight="0.18052256" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33570862" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33570862" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32786885" sideWeight="0.81947744" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31743667" sideWeight="0.81947744" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24446142" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24446142" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993559" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39791358" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.49406177" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.4307205" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32850242" sideWeight="0.18052256" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33570862" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32850242" sideWeight="0.81947744" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24465558" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993559" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -745,7 +835,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="11" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -753,41 +845,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture7/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture7/DigitInStringException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture7/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture7/DigitInStringException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture7/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/Programs/jdk1.8.0_60/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -956,26 +1013,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture7/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture7/DigitInStringException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HomeWorks.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1014,62 +1055,7 @@
               <point x="-25.333333333333343" y="15.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-100.5" y="27.0" />
-          <SelectedNodes>
-            <node>vitiazolha.lecture4.Human</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FirstHomeWork.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture4/lecture4.uml">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>vitiazolha.lecture4</OriginalElement>
-          <nodes>
-            <node x="230.0" y="0.0">vitiazolha.lecture4.Status</node>
-            <node x="148.0" y="81.0">vitiazolha.lecture4.Student</node>
-            <node x="408.0" y="93.0">vitiazolha.lecture4.Soldier</node>
-            <node x="180.0" y="-170.0">vitiazolha.lecture4.Human</node>
-            <node x="0.0" y="105.0">vitiazolha.lecture4.Professor</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="vitiazolha.lecture4.Student" target="vitiazolha.lecture4.Status">
-              <point x="0.0" y="-51.5" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="vitiazolha.lecture4.Soldier" target="vitiazolha.lecture4.Status">
-              <point x="0.0" y="-39.5" />
-              <point x="486.0" y="56.0" />
-              <point x="293.3333333333333" y="56.0" />
-              <point x="25.333333333333314" y="15.5" />
-            </edge>
-            <edge source="vitiazolha.lecture4.Human" target="vitiazolha.lecture4.Status">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="vitiazolha.lecture4.Professor" target="vitiazolha.lecture4.Status">
-              <point x="0.0" y="-27.5" />
-              <point x="64.0" y="56.0" />
-              <point x="242.66666666666666" y="56.0" />
-              <point x="-25.333333333333343" y="15.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-100.5" y="27.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-100.0" y="27.0" />
           <SelectedNodes>
             <node>vitiazolha.lecture4.Human</node>
           </SelectedNodes>
@@ -1085,7 +1071,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1093,7 +1078,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1101,7 +1085,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1109,7 +1092,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1117,17 +1099,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-          <folding>
-            <element signature="e#555#556#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture6/WorkWithArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1135,41 +1106,87 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2938" column="25" selection-start-line="2938" selection-start-column="25" selection-end-line="2938" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture6/WorkWithArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Programs/jdk1.8.0_60/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="105" column="25" selection-start-line="105" selection-start-column="22" selection-end-line="105" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/ValueException.java">
+    <entry file="file://$PROJECT_DIR$/src/FirstHomeWork.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <caret line="13" column="65" selection-start-line="12" selection-start-column="8" selection-end-line="13" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Programs/jdk1.8.0_60/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16864608">
+          <caret line="121" column="64" selection-start-line="121" selection-start-column="64" selection-end-line="121" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Programs/jdk1.8.0_60/src.zip!/java/lang/Runtime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="291" column="0" selection-start-line="291" selection-start-column="0" selection-end-line="291" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture7/DigitInStringException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture7/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="22" selection-end-column="9" />
           <folding>
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/TriangleSideHeight.java">
+    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
-          <folding />
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#899#900#0" expanded="true" />
+            <element signature="e#936#937#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle3Side.java">
+    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle2SideSin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -1177,40 +1194,168 @@
     <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Shape.java">
+    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle2SideSin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Rectangle.java">
+    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Triangle3Side.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="126" selection-start-line="24" selection-start-column="126" selection-end-line="24" selection-end-column="126" />
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/ValueException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/TriangleSideHeight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture4/lecture4.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>vitiazolha.lecture4</OriginalElement>
+          <nodes>
+            <node x="230.0" y="0.0">vitiazolha.lecture4.Status</node>
+            <node x="148.0" y="81.0">vitiazolha.lecture4.Student</node>
+            <node x="408.0" y="93.0">vitiazolha.lecture4.Soldier</node>
+            <node x="179.0" y="-158.0">vitiazolha.lecture4.Human</node>
+            <node x="0.0" y="105.0">vitiazolha.lecture4.Professor</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="vitiazolha.lecture4.Student" target="vitiazolha.lecture4.Status">
+              <point x="0.0" y="-51.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="vitiazolha.lecture4.Soldier" target="vitiazolha.lecture4.Status">
+              <point x="0.0" y="-39.5" />
+              <point x="486.0" y="56.0" />
+              <point x="293.3333333333333" y="56.0" />
+              <point x="25.333333333333314" y="15.5" />
+            </edge>
+            <edge source="vitiazolha.lecture4.Professor" target="vitiazolha.lecture4.Status">
+              <point x="0.0" y="-27.5" />
+              <point x="64.0" y="56.0" />
+              <point x="242.66666666666666" y="56.0" />
+              <point x="-25.333333333333343" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-100.5" y="90.0" />
+          <SelectedNodes>
+            <node>vitiazolha.lecture4.Human</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/vitiazolha.lecture5">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>vitiazolha.lecture5</OriginalElement>
+          <nodes>
+            <node x="0.0" y="314.0">vitiazolha.lecture5.Main</node>
+            <node x="145.99999999999997" y="162.0">vitiazolha.lecture5.Triangle2SideSin</node>
+            <node x="405.5" y="81.0">vitiazolha.lecture5.Circle</node>
+            <node x="283.5" y="81.0">vitiazolha.lecture5.Rectangle</node>
+            <node x="297.0" y="0.0">vitiazolha.lecture5.Shape</node>
+            <node x="0.0" y="238.0">vitiazolha.lecture5.ValueException</node>
+            <node x="174.49999999999997" y="81.0">vitiazolha.lecture5.Triangle</node>
+            <node x="312.0" y="162.0">vitiazolha.lecture5.TriangleSideHeight</node>
+            <node x="186.0" y="238.0">vitiazolha.lecture5.WorkWithList</node>
+            <node x="0.0" y="162.0">vitiazolha.lecture5.Triangle3Side</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="vitiazolha.lecture5.TriangleSideHeight" target="vitiazolha.lecture5.Triangle">
+              <point x="0.0" y="-15.5" />
+              <point x="394.5" y="137.0" />
+              <point x="248.6666666666666" y="137.0" />
+              <point x="29.66666666666663" y="15.5" />
+            </edge>
+            <edge source="vitiazolha.lecture5.Triangle2SideSin" target="vitiazolha.lecture5.Triangle">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="vitiazolha.lecture5.Triangle" target="vitiazolha.lecture5.Shape">
+              <point x="0.0" y="-15.5" />
+              <point x="218.99999999999997" y="56.0" />
+              <point x="309.5" y="56.0" />
+              <point x="-25.0" y="15.5" />
+            </edge>
+            <edge source="vitiazolha.lecture5.Circle" target="vitiazolha.lecture5.Shape">
+              <point x="0.0" y="-15.5" />
+              <point x="441.5" y="56.0" />
+              <point x="359.5" y="56.0" />
+              <point x="25.0" y="15.5" />
+            </edge>
+            <edge source="vitiazolha.lecture5.Triangle3Side" target="vitiazolha.lecture5.Triangle">
+              <point x="0.0" y="-15.5" />
+              <point x="63.0" y="137.0" />
+              <point x="189.3333333333333" y="137.0" />
+              <point x="-29.666666666666686" y="15.5" />
+            </edge>
+            <edge source="vitiazolha.lecture5.Rectangle" target="vitiazolha.lecture5.Shape">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.5000000000000001" x="319.0000000000001" y="296.5" />
+          <SelectedNodes>
+            <node>vitiazolha.lecture5.WorkWithList</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/WorkWithList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vitiazolha/lecture5/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44418052">
-          <caret line="20" column="24" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="28" />
-          <folding />
+        <state vertical-scroll-proportion="0.19656786">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding>
+            <element signature="e#339#346#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -6,4 +6,6 @@ package vitiazolha.lecture5;
 public abstract class Triangle extends Shape {
     @Override
     public abstract double getSquare() ;
+    @Override
+    public abstract void setInfo() throws ValueException ;
 }

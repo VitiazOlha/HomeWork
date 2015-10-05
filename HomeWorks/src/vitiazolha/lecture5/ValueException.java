@@ -6,6 +6,6 @@ package vitiazolha.lecture5;
 public class ValueException extends Exception {
     @Override
     public String getMessage() {
-        return "Illegal value(s).";
+        return "Illegal value.\n";
     }
 }
