@@ -1,7 +1,6 @@
 package vitiazolha.lecture5;
 
 import java.util.Scanner;
-import java.util.function.DoubleUnaryOperator;
 
 /**
  * Created by vitiazolha on 09.09.15.

@@ -1,10 +1,6 @@
 /**
  * Created by vitiazolha on 06.09.15.
  */
-import vitiazolha.lecture4.Human;
-
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class FirstHomeWork {

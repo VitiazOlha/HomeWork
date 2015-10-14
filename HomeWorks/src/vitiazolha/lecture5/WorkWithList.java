@@ -1,6 +1,5 @@
 package vitiazolha.lecture5;
 
-import java.io.IOException;
 import java.util.LinkedList;
 import java.util.Scanner;
 
@@ -19,7 +18,7 @@ public class WorkWithList {
         catch (NumberFormatException e) {
             throw new ValueException();
         }
-        //todo если возникает ошибка при инициализации фигуры, то удалять ее
+        //todo если возникает ошибка при инициализации фигуры, то удалять фигуру
         switch (menuChoise) {
             case 1: figures.addLast(new Circle());
                 figures.getLast().setInfo();
@@ -36,7 +35,7 @@ public class WorkWithList {
             case 5: figures.addLast(new TriangleSideHeight());
                 figures.getLast().setInfo();
                 break;
-            case 6: System.out.print(setTableInString(figures));
+            case 6: System.out.print(WorkWithText.setTableInString(figures));
                 break;
             case 7: return false;
             default:
@@ -44,27 +43,5 @@ public class WorkWithList {
                 break;
         }
         return true;
-    }
-
-    public static void outMenu(){
-        System.out.println("1. Add new Circle [R] in list.");
-        System.out.println("2. Add new Rectangle [a,b] in list.");
-        System.out.println("3. Add new Triangle [a,b,sin] in list.");
-        System.out.println("4. Add new Triangle [a,b,c] in list.");
-        System.out.println("5. Add new Triangle [a,h] in list.");
-        System.out.println("6. Print a table of the elements list.");
-        System.out.println("7. Exit.");
-    }
-
-
-    public static String setTableInString(LinkedList<Shape> figures) {
-        StringBuilder builder = new StringBuilder();
-        builder.append("_______________________________________________________________________\n");
-        builder.append("| Name of the figure |             Arguments             |   Square   |\n");
-        builder.append("|--------------------|-----------------------------------|------------|\n");
-        for (Shape e1 : figures)
-            builder.append(e1.toString());
-        builder.append("|_____________________________________________________________________|\n\n");
-        return builder.toString();
     }
 }

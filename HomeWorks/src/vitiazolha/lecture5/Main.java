@@ -6,12 +6,9 @@ import java.util.LinkedList;
  * Created by vitiazolha on 29.09.15.
  */
 public class Main {//обработка здесь
-    /*todo encrypt text with Caesar algorithm
-     *todo decrypt text with Caesar algorithm
-    * */
     public static void main(String[] args) {
         LinkedList<Shape> figures = new LinkedList<Shape>();
-        WorkWithList.outMenu();
+        WorkWithText.outMenu();
         boolean flag = true;
         while ( flag ) {
             try {
@@ -21,5 +18,8 @@ public class Main {//обработка здесь
                 System.out.print(e.getMessage());
             }
         }
+        String a123 = WorkWithText.encryptText(WorkWithText.setTableInString(figures));
+        System.out.println(a123);
+        System.out.println(WorkWithText.decryptText(a123));
     }
 }
